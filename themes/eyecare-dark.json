@@ -1,0 +1,4 @@
+{"background":"#221f1c","foreground":"#dad7d1","selection":"#433c34","cursor":"#dad7d1",
+ "ansi":["#5b5753","#fbb4ad","#a1d3a2","#e0c286","#9ccafb","#e2b8ec","#7cd4d8","#c6c2bd",
+         "#a19e99","#ffc5c0","#aedfae","#eed093","#b2d7ff","#f0c5f9","#8ae2e6","#e6e3de"],
+ "colors":{"foreground":"#dad7d1","solid":"#dad7d1","muted":"#afaba6","dim":"#928f8a","idle":"#928f8a","unknown":"#928f8a","ring":"#afaba6"}}
