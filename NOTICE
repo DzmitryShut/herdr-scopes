@@ -1,0 +1,11 @@
+Scopes for Herdr
+Copyright (c) 2026 Dzmitry Shut
+
+mods/scopes-sidebar and mods/scopes-tabs are modified from the `spaces` and
+`tabs` mods shipped with herdr-app 0.1.11 (Apache-2.0,
+https://github.com/herdrdev/herdr-app). layouts/scopes.json is modified from
+its `main` layout. The sidebar merges the spaces and agents lists into one
+tree. The tab bar names tabs from the agent's title and allows longer names.
+
+themes/eyecare-dark.json and themes/eyecare-light.json come from
+https://github.com/DzmitryShut/herdr-eyecare-themes (MIT, same author).
